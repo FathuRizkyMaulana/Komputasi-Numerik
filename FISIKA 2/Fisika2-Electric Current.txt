@@ -1,0 +1,16 @@
+Dalam Fisika 2 - Chapter 9 - Electric Current Example 2 
+Jika besarnya arus masuk I1 = 2A, I2 = 5A, I4 = 3A dan besarnya arus keluar I3 =6A, berapakah nilai arus I5?
+Jawaban : 
+Untuk menentukan nilai arus I 5 dalam sebuah rangkaian listrik berdasarkan hukum Kirchoff, kita harus menggunakan prinsip konservasi arus. Prinsip ini menyatakan bahwa jumlah arus yang masuk ke suatu titik sama dengan jumlah arus yang keluar dari titik tersebut. 
+ Diberikan:
+•	Arus masuk: I1=2 A, I2=5 A, I4=3 A
+•	Arus keluar: I3=6 A
+Menggunakan hukum Kirchoff:
+I1+I2+I4=I3+I5
+Substitusi nilai yang diberikan:
+2+5+3=6+I5 
+Menyederhanakan persamaan:
+10=6+I5 
+Maka:
+I5=10−6=4 A
+Jadi, nilai arus I5 adalah 4 A. 

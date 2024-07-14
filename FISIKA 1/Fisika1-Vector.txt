@@ -1,0 +1,13 @@
+Dalam Fisika 1 – Lecture 2 Vector 
+Seorang wanita menarik koper dengan gaya 60 N membentuk sudut 40 derajat terhadap horizontal. Tentukan gaya horizontal dan gaya vertikal yang terjadi!
+Jawaban : 
+Untuk menentukan komponen horizontal dan vertikal dari gaya yang diberikan oleh wanita yang menarik koper, kita dapat memecah gaya 60 N menjadi komponen-komponennya menggunakan fungsi trigonometri. Diberikan bahwa gaya tersebut membentuk sudut 40 derajat dengan horizontal, perhitungan dapat dilakukan sebagai berikut: 
+1 . Komponen horizontal ( 𝐹𝑥 ) : 
+  𝐹𝑥 - 𝐹 . cos(θ)
+dimana 𝐹 adalah besarnya gaya (60N) dan θ adalah sudut dengan horizontal (40 derajat). 
+2 . Komponen vertikal ( 𝐹𝑦 ) : 
+𝐹𝑦 - 𝐹 . sin(θ)
+dimana 𝐹 adalah besarnya gaya (60N) dan θ adalah sudut dengan horizontal (40 derajat). 
+Mari kita hitung komponen-komponen ini menggunakan pendekatan numerik dalam Python. 
+Komponen horizontal ( 𝐹𝑥 ) dari gaya tersebut adalah sekitar 45.96 N , Komponen vertikal ( 𝐹𝑦 ) adalah sekitar 38.57 N. 
+Jadi, wanita tersebut menarik koper dengan gaya horizontal sebesar 45.96 N dan gaya vertikal sebesar 38.57 N.
